@@ -1,0 +1,47 @@
+
+.header{
+	background-color:pink;
+	height:130px; 
+	font-size:25px;
+	 margin-left:30px;
+	  margin-right:30px;
+	   padding-top:10px;
+	    width:100%;
+	}
+			 
+.contain{
+	margin-top:20px;
+	 width:100%
+	}
+.sidebar{
+	background-color:pink; 
+	width:20%;
+	 float:left;
+	 margin-left:30px;
+	  height:418px;
+	}
+.sidebar ul{
+	height: 39px; 
+	font-size:24px;
+	margin-top:20px;
+}
+.sidebar ul a{
+	text-decoration:none;
+
+}
+.body{ 
+	float:right;
+	 width:77%;
+	  margin-top:20px; 
+	}
+.body p{
+	font-size:25px;
+	 text-align:center; 
+	 padding:20px;
+	  padding: 26px; 
+	  margin-right:22px; 
+	margin-top:101px;
+}
+.body p a{
+	text-decoration:none;
+}
